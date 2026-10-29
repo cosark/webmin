@@ -11,6 +11,7 @@
 * [Changelog](https://github.com/webmin/webmin/blob/master/CHANGELOG.md)
 * [About](#about)
 * [Installation](#installation)
+* [One-Click Deploy](#one-click-deploy)
 * [Development](#development)
 * [License](#license)
 
@@ -40,6 +41,10 @@ Perl 5.10 or higher.
 
 ## Installation
 For detailed installation instructions check our guide on [webmin.com/download](https://webmin.com/download) page.
+
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Webmin/)
 
 ## Development
 
